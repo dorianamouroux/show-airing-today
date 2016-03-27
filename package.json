@@ -1,0 +1,30 @@
+{
+  "name": "show-airing-today",
+  "version": "1.0.0",
+  "description": "A simple function to get all show airing today from TheMovieDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorianamouroux/show-airing-today.git"
+  },
+  "keywords": [
+    "show",
+    "airing",
+    "today",
+    "tv",
+    "the",
+    "move",
+    "db",
+    "themoviedb",
+    "tmdb"
+  ],
+  "author": "dorianamouroux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorianamouroux/show-airing-today/issues"
+  },
+  "homepage": "https://github.com/dorianamouroux/show-airing-today#readme"
+}
